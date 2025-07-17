@@ -14,7 +14,6 @@ A simple weather backend built using **vanilla Node.js** (no Express). It fetche
 - Fetches:
   - City name
   - Temperature (°C)
-  - Weather description
   - Humidity (%)
   - Wind speed (m/s)
 - Handles errors (missing city, invalid city, bad routes)
